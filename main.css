@@ -58,7 +58,7 @@ main {
 
 .sedan-column, .suv-column, .luxury-column {
     color: var(--veryLightGray);
-    height: 21.5em;
+    height: auto;
     width: 15em;
     padding: 1em;
 }
