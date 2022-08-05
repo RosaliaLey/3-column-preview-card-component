@@ -22,10 +22,6 @@ main {
     align-items: center;
 }
 
-h1 {
-    display: none;
-}
-
 .sedan-icon, .suvs-icon, .luxury-icon {
     width: 4em;
     height: 4em;
