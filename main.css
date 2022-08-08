@@ -58,8 +58,8 @@ main {
 
 .sedan-column, .suv-column, .luxury-column {
     color: var(--veryLightGray);
-    height: auto;
     width: 15em;
+    height: auto;
     padding: 1em;
 }
 
@@ -84,10 +84,10 @@ p {
     background-color: var(--veryLightGray);
     mix-blend-mode: lighten;
     font-size: 0.85rem;
+    margin-left: 1.4em;
     padding: 0.75em 1.5em;
     border-radius: 2em;
     text-decoration: none;
-    margin-left: 1.4em;
 }
 
 .btn-learn-more:hover {
@@ -114,8 +114,8 @@ p {
     }
 
     .sedan-column, .suv-column, .luxury-column {
-        height: 35em;
         width: 20em;
+        height: 35em;
         margin: 0;
     }
 
@@ -147,9 +147,9 @@ p {
 
     .btn-learn-more {
         font-size: 1rem;
-        padding: 1em 2em;
         border-radius: 2em;
         margin-left: 1.9em;
+        padding: 1em 2em;
     }
 
     .btn-learn-more:hover {
